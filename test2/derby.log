@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 13 05:45:43 JST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0157-baa4-c61d-0000071cc4c8 
+on database directory C:\Users\M.Yoneyama\eclipse\jee-neon\eclipse\workspace\Test2\db\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/M.Yoneyama/eclipse/jee-neon/eclipse/workspace/Test2/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Users\M.Yoneyama\eclipse\jee-neon\eclipse\workspace\Test2
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
